@@ -43,6 +43,7 @@ O computador realiza sua própria escolha e o aplicativo compara as duas jogadas
 🖼️ Interface
 
 Tela principal
+<img width="720" height="1600" alt="tela-principal" src="https://github.com/user-attachments/assets/7176d9d1-4d9c-43b0-8d2c-a8f1fd877c5a" />
 
 A tela principal apresenta as opções de jogada disponíveis para o usuário e a área destinada à apresentação do resultado.
 
