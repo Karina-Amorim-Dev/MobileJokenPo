@@ -1,4 +1,4 @@
-✊ MobileJokenPo
+## ✊ MobileJokenPo
 
 «Um jogo mobile de Pedra, Papel e Tesoura, desenvolvido para Android com Kotlin e Java utilizando o Android Studio.»
 
@@ -8,13 +8,13 @@ O jogador escolhe uma opção e disputa uma rodada contra o computador. Ao final
 
 ---
 
-🎮 Sobre o projeto
+## 🎮 Sobre o projeto
 
 O projeto consiste em uma versão mobile do tradicional jogo Pedra, Papel e Tesoura.
 
 A aplicação foi desenvolvida com foco em uma experiência simples e intuitiva, permitindo que o usuário interaja diretamente com as opções disponíveis na tela.
 
-Como jogar?
+# Como jogar?
 
 O jogador escolhe uma das três opções:
 
@@ -26,7 +26,7 @@ O computador realiza sua própria escolha e o aplicativo compara as duas jogadas
 
 ---
 
-✨ Funcionalidades
+## ✨ Funcionalidades
 
 - 🎮 Escolha entre Pedra, Papel ou Tesoura
 - 🤖 Jogada automática do computador
@@ -40,7 +40,7 @@ O computador realiza sua própria escolha e o aplicativo compara as duas jogadas
 
 ---
 
-🖼️ Interface
+## 🖼️ Interface
 
 ## 📱 Tela principal
 
@@ -52,7 +52,7 @@ A tela principal apresenta as opções de jogada disponíveis para o usuário e 
 
 ---
 
-🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 Tecnologia| Utilização
 Kotlin| Desenvolvimento da aplicação e lógica do jogo
@@ -63,7 +63,7 @@ Gradle| Gerenciamento e construção do projeto
 
 ---
 
-🧠 Conceitos aplicados
+## 🧠 Conceitos aplicados
 
 Durante o desenvolvimento do projeto foram trabalhados conceitos como:
 
@@ -79,7 +79,7 @@ Durante o desenvolvimento do projeto foram trabalhados conceitos como:
 
 ---
 
-🎯 Regras do jogo
+## 🎯 Regras do jogo
 
 Jogada do jogador| Resultado
 ✊ Pedra × ✌️ Tesoura| Vitória
@@ -92,7 +92,7 @@ Mesma jogada| Empate
 
 ---
 
-🚀 Como executar
+## 🚀 Como executar
 
 Pré-requisitos
 
@@ -103,7 +103,7 @@ Para executar o projeto, é necessário ter:
 - JDK compatível com a configuração do projeto
 - Um emulador Android ou dispositivo físico para execução
 
-Clone o repositório
+# Clone o repositório
 
 git clone https://github.com/Karina-Amorim-Dev/MobileJokenPo.git
 
@@ -118,7 +118,7 @@ Abra o projeto
 
 ---
 
-📂 Estrutura do projeto
+## 📂 Estrutura do projeto
 
 MobileJokenPo/
 │
@@ -143,15 +143,15 @@ MobileJokenPo/
 
 ---
 
-📌 Status
+## 📌 Status
 
-🟢 Concluído
+## 🟢 Concluído
 
 O projeto possui a funcionalidade principal do jogo, permitindo que o usuário escolha uma jogada, enfrente o computador e visualize o resultado da rodada.
 
 ---
 
-👩‍💻 Desenvolvedora
+## 👩‍💻 Desenvolvedora
 
 Karina Amorim Caetano
 
@@ -161,7 +161,7 @@ Este projeto faz parte da minha jornada de aprendizado e desenvolvimento na áre
 
 ---
 
-🔗 Repositório
+## 🔗 Repositório
 
 O código-fonte do projeto está disponível no GitHub:
 
@@ -169,6 +169,6 @@ O código-fonte do projeto está disponível no GitHub:
 
 ---
 
-📄 Licença
+## 📄 Licença
 
 Este projeto foi desenvolvido para fins educacionais e de portfólio.
