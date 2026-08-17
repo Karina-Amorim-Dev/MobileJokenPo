@@ -82,12 +82,19 @@ Durante o desenvolvimento do projeto foram trabalhados conceitos como:
 ## 🎯 Regras do jogo
 
 Jogada do jogador| Resultado
+
 ✊ Pedra × ✌️ Tesoura| Vitória
+
 ✊ Pedra × 🖐️ Papel| Derrota
+
 🖐️ Papel × ✊ Pedra| Vitória
+
 🖐️ Papel × ✌️ Tesoura| Derrota
+
 ✌️ Tesoura × 🖐️ Papel| Vitória
+
 ✌️ Tesoura × ✊ Pedra| Derrota
+
 Mesma jogada| Empate
 
 ---
